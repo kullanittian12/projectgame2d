@@ -160,3 +160,5 @@ Platformer 2D คลาสสิกในสไตล์ **Pixel Art**
 
 
 ---
+## 📌 รันเกมบน Web
+https://kullanittian12.github.io/projectgame2d/
